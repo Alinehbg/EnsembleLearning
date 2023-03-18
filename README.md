@@ -7,3 +7,5 @@ The data set for this project is obtained from Kaggle and contains the listings 
 Before starting the project, the data has been pre-processed by cleaning and transforming it into a format that can be used. This includes removing missing values, converting categorical variables to numerical variables, and excluding outliers.
 
 Here, we apply different approaches taught in the course and practiced in lab sessions (Decision Trees, Random forests, AdaBoost, XGBoost, Stacking) on the data set. The goal is to predict the target variable (price of the listing) and compare the performances of models using various metrics learned in class (mainly RMSE).
+
+The final, grouped work can be found inside the notebook 'Main_Stacked_Ensembles.ipynb'. It combines the data cleaning process, and shows optimized model performance as well as the stacking step. To see how the models have been optimized, go into the notebooks referring to the specific models (e.g: 'Adaboost.ipynb'). 
